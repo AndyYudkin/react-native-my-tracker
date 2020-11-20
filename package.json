@@ -1,0 +1,27 @@
+
+{
+  "name": "react-native-my-tracker",
+  "version": "0.0.1",
+  "description": "MyTracker plugin for iOS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:10levels/react-native-my-tracker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "myTracker"
+  ],
+  "author": "Kenneth Ma <ken@kenma.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndyYudkin/react-native-my-tracker"
+  },
+  "homepage": "https://github.com/AndyYudkin/react-native-my-tracker",
+  "peerDependencies": {
+    "react-native": "^0.63.3"
+  }
+}
